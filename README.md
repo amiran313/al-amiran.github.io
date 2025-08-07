@@ -1,2 +1,2 @@
-# al-amiran.github.io
+# al-amiran
 Free MaximillianMus
